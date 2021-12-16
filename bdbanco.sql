@@ -41,11 +41,11 @@ CREATE TABLE `tbbanco` (
 INSERT INTO `tbbanco` (`Cuenta`, `Nombre y apellido`, `Banco`, `Monto actual`) VALUES
 ('0017368', 'Jorge Taveras', 'ScotiaBank', '8500'),
 ('5790', 'Sabdiel S', 'Ban Reservas', '5000'),
-('6876', 'Mayra Rosario suarez', 'Banco BHD Leon', '3000'),
-('77198', 'Fernanda Ruiz Suarez', 'ScotiaBank', '1000'),
-('7729', 'Ronald Cabrera', 'Banco Popular', '30000'),
-('782992', 'Wander Castillo', 'Banco Popular', '6000'),
-('87251', 'Jairo Castilo', 'Ban Reservas', '4500'),
+('6876', 'Mayra', 'Banco BHD Leon', '3000'),
+('77198', 'Fernanda Ruiz', 'ScotiaBank', '1000'),
+('7729', 'Ronald C', 'Banco Popular', '30000'),
+('782992', 'Wander C', 'Banco Popular', '6000'),
+('87251', 'Jairo C', 'Ban Reservas', '4500'),
 ('890', 'Feliz Rodriguez', 'Ban Reservas', '1500');
 
 --
